@@ -1,4 +1,4 @@
-# ⚡QCommerce Analysis Suite — Delivery & Customer Analytics  
+# ⚡Quick Commerce Analysis Suite — Delivery & Customer Analytics  
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DataWarehouse-informational?logo=postgresql)
@@ -130,6 +130,7 @@ Hi, I’m **Ankit Raj** passionate about turning data into **business outcomes**
 
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.  
+
 
 
 
