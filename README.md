@@ -37,15 +37,15 @@ This project delivers an end-to-end intelligence system for 100,000 realistic Q-
 ```
 📦 quick-commerce-analysis
  ┣ 📂 dataset
- ┣ 📂 notebooks
+ ┣ 📂 Jupyter notebooks
  ┃ ┣ 📓 Analysis.ipynb   # Full EDA & insights
  ┃ ┣ 📓 Extract.ipynb    # Data extraction & preprocessing
  ┃ ┗ 📓 Load.ipynb       # Loading into PostgreSQL
- ┣ 📂 sql                # SQL scripts for schema & transformations
- ┣ 📂 reports            # EDA storytelling deck
- ┣ 📂 dashboard          # Power BI dashboard
- ┣ 📄 README.md
- ┗ 📄 requirements.txt
+ ┣  📄 transformation.sql              # SQL scripts for schema & transformations
+ ┣  📄 EDA_Quick_Commerce.pptx         # EDA storytelling deck
+ ┣  📄 Ecommerce Analysis.pbip      # Power BI dashboard
+ ┣  📄 README.md
+ ┗  📄 requirements.txt
 
  ```
 <br>
@@ -130,6 +130,7 @@ Hi, I’m **Ankit Raj** passionate about turning data into **business outcomes**
 
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.  
+
 
 
 
